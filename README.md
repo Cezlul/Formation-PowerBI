@@ -72,7 +72,7 @@ Formation pratique de **8 minutes** pour créer un dashboard Power BI profession
 - Pédagogie et vulgarisation technique
 - Communication claire et structurée
 - Approche méthodique et professionnelle
-
+ Lien vers la vidéo : https://thalesgroup-my.sharepoint.com/:v:/g/personal/cesar_lemaire_thalesaleniaspace_com/EYl6TU3y_KRIsQruy2aPM9oBQswKgjc6nXFM0aOj9XEfmA?e=bD6Qbg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ---
 
 ## 📈 Dataset Utilisé
