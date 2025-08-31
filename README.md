@@ -12,11 +12,8 @@ Formation pratique de **8 minutes** pour créer un dashboard Power BI profession
 
 ##  Vidéo de Formation
 
-[![Miniature Vidéo](assets/video_thumbnail.png)](LIEN_VERS_VOTRE_VIDEO)
 
-**[🎬 Regarder la Formation Complète (8min)](LIEN_VERS_VOTRE_VIDEO)**
-
-### 📋 Chapitres
+### Chapitres
 - **0:00-0:45** - Introduction et objectifs
 - **0:45-2:30** - Import et transformation des données
 - **2:30-4:00** - Création des métriques business (DAX)
@@ -26,7 +23,7 @@ Formation pratique de **8 minutes** pour créer un dashboard Power BI profession
 
 ---
 
-### 📈 Fonctionnalités Démontrées
+### Fonctionnalités Démontrées
 ✅ **Import CSV** avec transformation Power Query  
 ✅ **Mesures DAX** personnalisées (CA, marge, ratios)  
 ✅ **6 Visualisations** interactives complémentaires  
@@ -38,10 +35,10 @@ Formation pratique de **8 minutes** pour créer un dashboard Power BI profession
 
 ## Technologies Utilisées
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Formulas-orange?style=flat)
-![CSV](https://img.shields.io/badge/CSV-Data%20Source-green?style=flat)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-blue?style=flat)
+[Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+[DAX](https://img.shields.io/badge/DAX-Formulas-orange?style=flat)
+[CSV](https://img.shields.io/badge/CSV-Data%20Source-green?style=flat)
+[Power Query](https://img.shields.io/badge/Power%20Query-ETL-blue?style=flat)
 
 ---
 
@@ -49,17 +46,16 @@ Formation pratique de **8 minutes** pour créer un dashboard Power BI profession
 
 ### Prérequis
 - Power BI Desktop (gratuit)
-- Fichier [ventes_formation.csv](data/ventes_formation.csv)
+- Fichier ventes_formation.csv
 - 30 minutes pour suivre la formation
 
 ### Étapes Rapides
-1. **Télécharger** le [dataset CSV](data/ventes_formation.csv)
+1. **Télécharger** le dataset
 2. **Import** dans Power BI : `Obtenir données → Texte/CSV`
 3. **Transformer** : Vérifier types colonnes dans Power Query
-4. **Créer mesures** DAX (voir [formules](powerbi/measures_dax.txt))
+4. **Créer mesures** DAX 
 5. **Construire visualisations** selon le guide
 6. **Appliquer design** professionnel
-
 
 ---
 
