@@ -14,12 +14,12 @@ Formation pratique de **8 minutes** pour créer un dashboard Power BI profession
 
 
 ### Chapitres
-- **0:00-0:45** - Introduction et objectifs
-- **0:45-2:30** - Import et transformation des données
-- **2:30-4:00** - Création des métriques business (DAX)
-- **4:00-5:45** - Visualisations avancées
-- **5:45-7:15** - Interactivité et filtres
-- **7:15-8:30** - Design professionnel et finalisation
+- Introduction et objectifs
+- Import et transformation des données
+- Création des métriques business (DAX)
+- Visualisations avancées
+- Interactivité et filtres
+- Design professionnel et finalisation
 
 ---
 
