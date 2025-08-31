@@ -24,12 +24,11 @@ Formation pratique de **8 minutes** pour créer un dashboard Power BI profession
 ---
 
 ### Fonctionnalités Démontrées
-✅ **Import CSV** avec transformation Power Query  
-✅ **Mesures DAX** personnalisées (CA, marge, ratios)  
-✅ **6 Visualisations** interactives complémentaires  
-✅ **Filtres croisés** et navigation intuitive  
-✅ **Design professionnel** prêt pour direction  
-✅ **Tooltips riches** et mise en forme conditionnelle  
+ **Import CSV** avec transformation Power Query  
+ **Mesures DAX** personnalisées (CA, marge)  
+ **Visualisations** interactives  
+ **Filtres croisés** et navigation intuitive   
+ **Tooltips riches** et mise en forme conditionnelle  
 
 ---
 
@@ -64,7 +63,7 @@ Formation pratique de **8 minutes** pour créer un dashboard Power BI profession
 ###  **Techniques Power BI**
 - Import et nettoyage données (Power Query)
 - Calculs business avec DAX
-- Visualisations avancées et mise en forme
+- Visualisations et mise en forme
 - Interactivité utilisateur (segments, filtres)
 
 
@@ -75,9 +74,9 @@ Formation pratique de **8 minutes** pour créer un dashboard Power BI profession
  Lien vers la vidéo : https://thalesgroup-my.sharepoint.com/:v:/g/personal/cesar_lemaire_thalesaleniaspace_com/EYl6TU3y_KRIsQruy2aPM9oBQswKgjc6nXFM0aOj9XEfmA?e=bD6Qbg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ---
 
-## 📈 Dataset Utilisé
+## Dataset Utilisé
 
-### 📁 Structure des Données
+### Structure des Données
 ```csv
 Vente_ID,Date,Region,Produit,Vendeur,Quantite,Prix_Unitaire,Cout_Unitaire,Type_Client
 V0001,2024-01-15,Paris,Laptop,Marie Dubois,2,899.99,650.00,Entreprise
