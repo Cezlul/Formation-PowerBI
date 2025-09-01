@@ -34,10 +34,9 @@ Formation pratique de **8 minutes** pour créer un dashboard Power BI profession
 
 ## Technologies Utilisées
 
-[Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-[DAX](https://img.shields.io/badge/DAX-Formulas-orange?style=flat)
-[CSV](https://img.shields.io/badge/CSV-Data%20Source-green?style=flat)
-[Power Query](https://img.shields.io/badge/Power%20Query-ETL-blue?style=flat)
+[Power BI]
+[DAX]
+[Power Query]
 
 ---
 
